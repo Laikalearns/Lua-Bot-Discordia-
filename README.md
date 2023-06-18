@@ -1,2 +1,1 @@
-# Lua-Bot-
-Created bot for my Discord Channel. 
+# Lua-Bot-Discord Channel. 
